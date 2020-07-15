@@ -26,3 +26,7 @@ Steps you need to follow:
     ( For more information on commands check this URL: https://github.github.com/training-kit/downloads/github-git-cheat-sheet/ )
 11. After you made changes repository on your local machine you need to update those on you GitHub remote repository
 12. $ git push  : Use to merge changes on GitHub repository
+13. Now you successfuly updated the GitHub remote repository
+
+.............................Congrats on your successfuly completion....................................
+
