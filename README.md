@@ -27,6 +27,21 @@ Steps you need to follow:
 11. After you made changes repository on your local machine you need to update those on you GitHub remote repository
 12. $ git push  : Use to merge changes on GitHub repository
 13. Now you successfuly updated the GitHub remote repository
+14. After that you made some changes on the remote repository on Github and you want to retrive those changes on your computer you
+    can use next command
+    $ git pull
+
+Extra: To avoid password enter process...
+
+1. Use credential helper to store cache for 15 minute  
+
+$ git config --global credential.helper cache
+
+$ git pull and it will ask you for userID and password one time after you don't need to type for 15 minutes
+
+2. Adding your computer SSH -key to your GitHub account 
+For more information see: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+
 
 .............................Congrats on your successfuly completion....................................
 
