@@ -43,5 +43,5 @@ $ git pull and it will ask you for userID and password one time after you don't 
 For more information see: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
 
 
-...............................Congrats on your successfuly completion.......................................
+.................................Congrats on your successfuly completion.........................................
 
