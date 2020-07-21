@@ -31,7 +31,7 @@ Steps you need to follow:
     can use next command
     $ git pull
 
-Extra: To avoid password enter process...
+Extra: To avoid password process...
 
 1. Use credential helper to store cache for 15 minute  
 
