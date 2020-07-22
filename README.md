@@ -43,7 +43,7 @@ Let's dive into learing......
 15. $ git push --- this step shows merge conflict aries
 16. Now you need to merge locally changes from remote repository use
     $ git pull ( It automates changes on local repository excluding the lines which contains conflict to do it manually )
-17. $ git log --grapg --oneline --all  ( To see conflict graph representation )
+17. $ git log --graph --oneline --all  ( To see conflict graph representation )
 *Note: Above conflict we are going to use Three-way merge to resolve it.
 
 18. $ git log -p origin/master (To see changes made by origin/master and then do edit manually on your editor )
