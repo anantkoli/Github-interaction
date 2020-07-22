@@ -54,6 +54,8 @@ Let's dive into learing......
 21. $ git commit (Here you will see conflict resolved commit on editor, Now you can commit your message on editor to next line.)
  or $ git commit -m <"your_commit_message">
 
+22. $ git commit -a -m <"your_commit_message">  (shortcut for above to step)
+
 *Extra: To avoid password entering process...
 
 1. Use credential helper to store cache for 15 minute  
