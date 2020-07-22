@@ -17,7 +17,7 @@ Let's dive into learing......
 2. Create new repository
 3. After successfuly creating new repository click "Clone or download" and copy URL
 4. Go to your local computer git software and type following command
-5. $ git clone <paste URL>
+5. $ git clone <"paste URL">
 6. Git will ask you for GitHub's USERNAME and PASSWORD
 7. Now we downloaded the clone repository on your local machine
 8. Computer will automatically create directory and working tree to perform changes in file
